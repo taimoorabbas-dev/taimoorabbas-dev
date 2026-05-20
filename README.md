@@ -1,16 +1,39 @@
-## Hi there 👋
+# Taimoor Abbas
 
-<!--
-**taimoorabbas-dev/taimoorabbas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer with a focus on data systems, automation, and financial tools.
 
-Here are some ideas to get you started:
+I care more about real market problems than university assignments — most of what 
+I build comes from looking at how things actually work in finance and industry, 
+then writing code around that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interest is the crossection between finance and technology. Not fintech 
+as a buzzword — but understanding real market mechanics and building tools that 
+reflect that.
+
+---
+
+## What I'm building
+
+- **PSX Intelligence** — A Bloomberg-style terminal for Pakistan Stock Exchange. 
+  Live data, portfolio tracking, and market visualization in Python.
+- Financial data pipelines and automation tools
+- Backend systems that connect to real APIs and real data sources
+
+---
+
+## Approach
+
+I use prompt engineering heavily to work faster and smarter with AI tools — 
+not to replace thinking, but to cut the noise and focus on what matters.
+
+---
+
+## Tech
+
+Python · REST APIs · Data Analysis · Backend Systems · Automation
+
+---
+
+## Goal
+
+Get as good at building as I possibly can — through projects, not tutorials.
