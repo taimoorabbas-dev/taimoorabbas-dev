@@ -14,11 +14,9 @@ reflect that.
 
 ## What I'm building
 
-- **PSX Intelligence**
-- A Bloomberg-style terminal for Pakistan Stock Exchange. 
-- Live data, portfolio tracking, and market visualization in Python.
-- Financial data pipelines and automation tools
-- Backend systems that connect to real APIs and real data sources
+- Financial data systems and market intelligence tools
+- Automation pipelines that connect to real APIs and real data sources
+- Backend systems focused on Pakistan's financial ecosystem — PSX, SBP, macro data
 
 ---
 
