@@ -2,20 +2,21 @@
 
 Backend developer with a focus on data systems, automation, and financial tools.
 
-I care more about real market problems than university assignments — most of what 
+I care more about real market problems than university assignments, most of what 
 I build comes from looking at how things actually work in finance and industry, 
 then writing code around that.
 
 My main interest is the crossection between finance and technology. Not fintech 
-as a buzzword — but understanding real market mechanics and building tools that 
+as a buzzword, but understanding real market mechanics and building tools that 
 reflect that.
 
 ---
 
 ## What I'm building
 
-- **PSX Intelligence** — A Bloomberg-style terminal for Pakistan Stock Exchange. 
-  Live data, portfolio tracking, and market visualization in Python.
+- **PSX Intelligence**
+- A Bloomberg-style terminal for Pakistan Stock Exchange. 
+- Live data, portfolio tracking, and market visualization in Python.
 - Financial data pipelines and automation tools
 - Backend systems that connect to real APIs and real data sources
 
